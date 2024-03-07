@@ -14,4 +14,9 @@ print(ans+2)
 
 print('第一次修改')
 print('第二次修改')
+<<<<<<< HEAD
 print('修复bug')
+=======
+print('第一个分支功能')
+print('第一个分支功能后半段')
+>>>>>>> dev
